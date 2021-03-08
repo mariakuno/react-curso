@@ -1,0 +1,32 @@
+
+.division {
+    /* IMPORTANTE */
+    text-align: center;
+  }
+  
+  .celdas {
+    padding: 10px;
+    margin: 10px;
+    
+    /* IMPORTANTE */
+    display: inline-block;
+  }
+
+  .botones {
+    padding: 10px;
+    margin: 30px;
+    
+    /* IMPORTANTE */
+    display: inline-block;
+    font-weight: bold;
+    font-size: large;
+  }
+
+  .botonResultado {
+    padding: 10px;
+    margin: 70px;
+    font-weight: bold;
+    font-size: large;
+    /* IMPORTANTE */
+    display: inline-block;
+  }
